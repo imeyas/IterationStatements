@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\bin\Debug\net6.0\ref\IterationStatements.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\IterationStatements\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
